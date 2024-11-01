@@ -14,7 +14,7 @@ body{
 
 .header__bg {
     width: 100%;
-    background-image: url('/img/bg.png');
+    background-image: url('/img/bg.jpg');
     height: 769px;
     background-repeat: no-repeat;
     background-size: cover;
@@ -173,7 +173,7 @@ a{
 .about-container__item{
     width: 140px;
     height: 224px;
-    background-image: url("/img/plan.png");
+    background-image: url("/img/plan.jpg");
     background-position: right;
     position: relative;
 }
@@ -189,10 +189,10 @@ a{
     height: 58px;
 }
 .about-container__item_img2{
-    background-image: url('/img/manage.png');
+    background-image: url('/img/manage.jpg');
 }
 .about-container__item_img3{
-    background-image: url('/img/build.png');
+    background-image: url('/img/build.jpg');
 }
 .services{
     position: relative;
@@ -269,7 +269,7 @@ a{
     margin-top: 117px;
     width: 100%;
     height: 499px;
-    background-image: url("/img/getInTouch-bg.png");
+    background-image: url("/img/getInTouch-bg.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
